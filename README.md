@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Jeremy but in Australia everybody calls me Jezza, even though it doesn't make sense for a French person.
+My name is Jeremy but in Australia, everybody calls me Jezza... even though it still doesn't make sense to me!
 
-My job title at [ustwo](https://ustwo.com) says I'm a senior full-stack web developer, but deep inside I'll always be more of a front-end guy, or at least a "UI engineer", for all these reasons:
+My job title at [ustwo](https://ustwo.com) says I'm a senior **full-stack** web developer, but deep inside I'll always be more of a **front-end** guy, or somewhat what they start calling a "UI engineer", for all these reasons:
 
 😍  I love working with...
 
@@ -10,6 +10,7 @@ My job title at [ustwo](https://ustwo.com) says I'm a senior full-stack web deve
 - React.js & React Native
 - Next.js & Gatsby.js
 - SCSS & CSS-in-JS libraries
+- CSS Animations & React-Spring
 - Sketch & Figma (Yes, I like UI design too!)
 
 ✅  I have worked on these projects...
@@ -37,4 +38,4 @@ My job title at [ustwo](https://ustwo.com) says I'm a senior full-stack web deve
 
 📭  You can reach out to me...
 
-I am open to remote opportunities. [Let's chat](mailto:jgrancher@gmail.com)!
+I am open to remote opportunities. [Let's chat](mailto:jgrancher@gmail.com?subject=Hello%20from%20Github%20!)!
