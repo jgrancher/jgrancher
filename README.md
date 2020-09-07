@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Jeremy but in Australia, everybody calls me Jezza... even though it still doesn't make sense to me!
-
-My job title at [ustwo](https://ustwo.com) says I'm a senior **full-stack** web developer, but deep inside I'll always be more of a **front-end** guy, or somewhat what they start calling a "UI engineer", for all these reasons:
+My name is Jeremy (or Jezza in 'Straya 🇦🇺), and I currently work at [ustwo](https://ustwo.com) as a senior **full-stack** product engineer. Deep inside though, I'll always be more of a **front-end** guy, or somewhat what they start calling a "UI engineer", for all these reasons:
 
 😍  I love working with...
 
