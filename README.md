@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jeremy (or Jezza in 'Straya 🇦🇺), and I currently work at [ustwo](https://ustwo.com) as a senior **full-stack** product engineer. Deep inside though, I'll always be more of a **front-end** guy, or somewhat what they start calling a "UI engineer", for all these reasons:
+My name is Jeremy (or Jezza in 'Straya 🇦🇺), and I currently work at [Thinkmill](https://www.thinkmill.com.au/) as a senior **full-stack** developer. Deep inside though, I'll always be more of a **front-end** guy, or somewhat what they start calling a "UI engineer", for all these reasons:
 
 😍  I love working with...
 
