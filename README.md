@@ -16,7 +16,7 @@ My name is Jeremy (or Jezza in 'Straya 🇦🇺), and I currently work at [Think
 - Semi Permanent's [new website](https://semipermanent.com/) (with Next.js, Emotion, Framer Motion & Contentful's GraphQL API)
 - Google's [Create with Google](https://create.withgoogle.com/) website (with Python & Jinja)
 - Qantas's [Card Companion](https://cardcompanion.qantas.com/) website (with Next.js & GraphQL)
-- Google's [Audience Connect](https://create.withgoogle.com/tools/audience-connect) desktop application (with Electron & Preact.js) - Now killed by Google 😔
+- Google's [Audience Connect](https://create.withgoogle.com/tools/audience-connect) desktop application (with Electron & Preact.js) - EDIT: Now sunset by Create with Google 😔
 - Blackmores's [main website](https://blackmores.netlify.app) front-end revamp (with HTML & SCSS)
 - John Mac Foundation's [website](https://johnmacfoundation.org/) (with WordPress)
 
