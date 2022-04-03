@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jeremy (or Jezza 🇦🇺), and I am a freelance senior front-end developer currently helping [Nightjar](https://nightjar.co) build amazing, awards winning websites (previously [Thinkmill](https://www.thinkmill.com.au/) & [ustwo](https://www.ustwo.com/)).
+My name is Jeremy (or "Jezza" 🇦🇺), and I am a freelance senior front-end developer currently helping [Nightjar](https://nightjar.co) build slick, awards winning websites (previously @ [Thinkmill](https://www.thinkmill.com.au/) & [ustwo](https://www.ustwo.com/)).
 
 😍  I love working with...
 
