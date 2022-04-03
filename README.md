@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-My name is Jeremy (or Jezza in 'Straya 🇦🇺), and I currently work at [Thinkmill](https://www.thinkmill.com.au/) (previously [ustwo](https://www.ustwo.com/)) as a senior **full-stack** developer. Deep inside though, I'll always be more of a **front-end** guy.
+My name is Jeremy (or Jezza 🇦🇺), and I am a freelance senior front-end developer currently helping [Nightjar](https://nightjar.co) build amazing, awards winning websites (previously [Thinkmill](https://www.thinkmill.com.au/) & [ustwo](https://www.ustwo.com/)).
 
 😍  I love working with...
 
-- JavaScript / TypeScript
-- React.js & React Native
-- Next.js & Gatsby.js
-- SCSS & CSS-in-JS libraries like Emotion
-- CSS Animations, React-Spring & Framer Motion
+- TypeScript, React.js & Next.js
+- SCSS, Tailwind & CSS-in-JS libraries like Emotion
+- CSS Animations, GSAP, React-Spring & Framer Motion
 - Sketch & Figma (Yes, I like design tools as well!)
 
 ✅  I have worked on these projects...
@@ -22,12 +20,12 @@ My name is Jeremy (or Jezza in 'Straya 🇦🇺), and I currently work at [Think
 
 🤓  I have also done a bit of open-source...
 
-- [react-native-sketch](https://github.com/jgrancher/react-native-sketch), a React Native component for touch-based drawing (but I'm struggling to maintain it)
+- [react-native-sketch](https://github.com/jgrancher/react-native-sketch), a React Native component for touch-based drawing (now archived)
 
 🔭. I’m currently working on ...
 
-- [My portfolio](https://jeremygrancher.com) (well, it's a never ending project ya know!)
-- [Enlitic](https://enlitic.com)'s platform & design system
+- [My portfolio](https://jeremygrancher.com) (well, it's a never ending project...)
+- [House of Heat](https://houseofheat.co/)'s new website
 
 🌱  I’m currently learning ...
 
