@@ -11,12 +11,13 @@ My name is Jeremy (or "Jezza" 🇦🇺), and I am a freelance senior front-end d
 
 ✅  I have worked on these projects...
 
-- Semi Permanent's [new website](https://semipermanent.com/) (with Next.js, Emotion, Framer Motion & Contentful's GraphQL API)
-- Google's [Create with Google](https://create.withgoogle.com/) website (with Python & Jinja)
-- Qantas's [Card Companion](https://cardcompanion.qantas.com/) website (with Next.js & GraphQL)
-- Google's [Audience Connect](https://create.withgoogle.com/tools/audience-connect) desktop application (with Electron & Preact.js) - EDIT: Now sunset by Create with Google 😔
-- Blackmores's [main website](https://blackmores.netlify.app) front-end revamp (with HTML & SCSS)
-- John Mac Foundation's [website](https://johnmacfoundation.org/) (with WordPress)
+- [Swimming Australia](https://swimming.org.au): website built with Next.js & headless Wordpress using a GraphQL API.
+- [Semi Permanent](https://semipermanent.com/): website built with Next.js, Emotion, Framer Motion & Contentful's GraphQL API.
+- [Create with Google](https://create.withgoogle.com/): website built with Python & Jinja.
+- [Qantas Card Companion](https://cardcompanion.qantas.com/): website built with Next.js & GraphQL.
+- [Google Audience Connect](https://create.withgoogle.com/tools/audience-connect): desktop application with Electron & Preact.js - EDIT: Now sunset by Create with Google 😔
+- [Blackmores](https://blackmores.netlify.app): front-end revamp with HTML & SCSS.
+- [John Mac Foundation](https://johnmacfoundation.org/): website built with WordPress.
 
 🤓  I have also done a bit of open-source...
 
@@ -25,7 +26,7 @@ My name is Jeremy (or "Jezza" 🇦🇺), and I am a freelance senior front-end d
 🔭. I’m currently working on ...
 
 - [My portfolio](https://jeremygrancher.com) (well, it's a never ending project...)
-- [House of Heat](https://houseofheat.co/)'s new website
+- [Big W](https://www.bigw.com.au/)'s storefront.
 
 🌱  I’m currently learning ...
 
