@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jeremy - or "Jezza" 🇦🇺, and I am a freelance web developer. I currently work alongside [Userkind](https://userkind.com.au/), building bespoke websites and e-commerce storefronts with headless CMSs like Sanity or Builder.io. I previously helped in maintaining [BigW](https://www.bigw.com.au)'s storefront, and before that I worked @ [Publicis](https://www.publicis.com.au/), [Nightjar](https://nightjar.co), [Thinkmill](https://www.thinkmill.com.au/), [ustwo](https://www.ustwo.com/).
+My name is Jeremy - or "Jezza" 🇦🇺, and I am a freelance web developer. I currently work alongside [Userkind](https://userkind.com.au/), building bespoke websites with headless CMSs like Sanity or Builder.io, and e-commerce storefronts with Shopify. I previously helped in maintaining [BigW](https://www.bigw.com.au)'s storefront, and before that I worked @ [Publicis](https://www.publicis.com.au/), [Nightjar](https://nightjar.co), [Thinkmill](https://www.thinkmill.com.au/), [ustwo](https://www.ustwo.com/).
 
 😍  I love working with...
 
