@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jeremy (or "Jezza" 🇦🇺), and I am a freelance web developer currently helping [Userkind](https://userkind.com.au/) developping fully-fledged marketing & e-commerce websites with headless CMSs like Sanity or Builder.io. I previously worked on maintaining [BigW](https://www.bigw.com.au)'s storefront, and before that I worked @ [Publicis](https://www.publicis.com.au/), [Nightjar](https://nightjar.co), [Thinkmill](https://www.thinkmill.com.au/), [ustwo](https://www.ustwo.com/)).
+My name is Jeremy - or "Jezza" 🇦🇺, and I am a freelance web developer. I currently work alongside [Userkind](https://userkind.com.au/), building bespoke websites and e-commerce storefronts with headless CMSs like Sanity or Builder.io. I previously helped in maintaining [BigW](https://www.bigw.com.au)'s storefront, and before that I worked @ [Publicis](https://www.publicis.com.au/), [Nightjar](https://nightjar.co), [Thinkmill](https://www.thinkmill.com.au/), [ustwo](https://www.ustwo.com/).
 
 😍  I love working with...
 
@@ -8,10 +8,10 @@ My name is Jeremy (or "Jezza" 🇦🇺), and I am a freelance web developer curr
 - SCSS, Tailwind & CSS-in-JS libraries like Emotion
 - Shopify & Headless CMSs like Contentful, Sanity, Builder.io
 - CSS Animations, GSAP, React-Spring & Framer Motion
-- Sketch & Figma (Yes, I like design tools as well!)
 
 ✅  I have worked on these projects...
 
+- [Fish River Roasters](https://www.fishriverroasters.com.au/): e-commerce storefront built with Next.js Commerce and Shopify APIs.
 - [With Marmalade](https://withmarmalade.com.au/): full website built with Next.js, Framer Motion and the Builder.io CMS.
 - [Swimming Australia](https://swimming.org.au): website built with Next.js & headless Wordpress using a GraphQL API.
 - [Semi Permanent](https://semipermanent.com/): website built with Next.js, Emotion, Framer Motion & Contentful's GraphQL API.
@@ -27,7 +27,7 @@ My name is Jeremy (or "Jezza" 🇦🇺), and I am a freelance web developer curr
 
 🔭. I’m currently working on ...
 
-- An e-commerce website for an Australian coffee roaster, built with headless Shopify & Next.js. 
+- An events website.
 
 🌱  I’m currently learning ...
 
