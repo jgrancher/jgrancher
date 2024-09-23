@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Jeremy - or "Jezza" 🇦🇺, and I am a freelance web developer. I currently work alongside [Userkind](https://userkind.com.au/), building bespoke websites with headless CMSs like Sanity or Builder.io, and e-commerce storefronts with Shopify. I previously helped in maintaining [BigW](https://www.bigw.com.au)'s storefront, and before that I worked @ [Publicis](https://www.publicis.com.au/), [Nightjar](https://nightjar.co), [Thinkmill](https://www.thinkmill.com.au/), [ustwo](https://www.ustwo.com/).
+My name is Jeremy - or "Jezza" 🇦🇺, and I currently work at [Leonardo.ai](https://leonardo.ai/) as a Senior Web Engineer where I help maintain the web platform, working alongside the API & AI teams.
+
+Loving both the full-stack development and the creative coding space (the "front of the front-end"), I used to freelance and contract to build bespoke websites with headless CMSs like Sanity or Builder.io, and e-commerce storefronts with Shopify. Some clients and companies I worked for include: [BigW](https://www.bigw.com.au), [Publicis](https://www.publicis.com.au/), [Nightjar](https://nightjar.co), [Thinkmill](https://www.thinkmill.com.au/), [ustwo](https://www.ustwo.com/), and Google.
 
 😍  I love working with...
 
@@ -11,6 +13,7 @@ My name is Jeremy - or "Jezza" 🇦🇺, and I am a freelance web developer. I c
 
 ✅  I have worked on these projects...
 
+- [No Limit Boxing](https://www.nolimitboxing.com.au): website built with Next.js, Tailwind & Sanity CMS.
 - [Fish River Roasters](https://www.fishriverroasters.com.au/): e-commerce storefront built with Next.js Commerce and Shopify APIs.
 - [With Marmalade](https://withmarmalade.com.au/): full website built with Next.js, Framer Motion and the Builder.io CMS.
 - [Swimming Australia](https://swimming.org.au): website built with Next.js & headless Wordpress using a GraphQL API.
@@ -27,12 +30,12 @@ My name is Jeremy - or "Jezza" 🇦🇺, and I am a freelance web developer. I c
 
 🔭. I’m currently working on ...
 
-- An events website.
+- The [Leonardo.ai](https://leonardo.ai/) web platform!
 
 🌱  I’m currently learning ...
 
-- [Three.js](https://threejs-journey.xyz/) & React-Three-Fiber
+- Some Japanese 🇯🇵, because it's fun.
 
 📭  You can reach out to me...
 
-I am open to remote opportunities. [Let's chat](mailto:jgrancher@gmail.com?subject=Hello%20from%20Github%20!)!
+I am always open to opportunities. [Let's chat](mailto:jgrancher@gmail.com?subject=Hello%20from%20Github%20!)!
